@@ -47,6 +47,10 @@ Conclusion:
 Developed a Bank Loan Analysis Dashboard using Power BI and SQL, analyzing 38.6K loan applications with $435.8M funded and $473.1M received, providing insights on loan performance, risk analysis, homeownership trends, and growth patterns.
 
 
+"C:\Users\shaik ismail\OneDrive\Desktop\D.A Projects Bucket\Guided Projects\Power BI Projects\Finance Project _ Bank Analysis\Bank Loan Analysis Report.pdf"
+
+
+
 This dashboard enhances financial decision-making by providing a holistic view of loan performance. Excited to explore more data-driven projects!
 
 
